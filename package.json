@@ -1,0 +1,41 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "description": "mu gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Solntsev",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.23.0",
+    "@typescript-eslint/parser": "^2.23.0",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cheerio": "^1.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-pretty-html": "^2.0.10",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-svgmin": "^2.2.0",
+    "gulp-svgstore": "^7.0.1",
+    "gulp-uglify": "^3.0.2",
+    "normalize.css": "^8.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "slick-carousel": "^1.8.1"
+  }
+}

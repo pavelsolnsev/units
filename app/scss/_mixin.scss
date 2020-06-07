@@ -1,0 +1,9 @@
+@mixin cover {
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+@mixin tr($time) {
+	transition: all $time ease;
+}
